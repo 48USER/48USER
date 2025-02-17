@@ -1,4 +1,4 @@
-## ШАД PYTHON  
+## YSDA(ШАД) PYTHON  
 [ManyTask](https://gitlab.manytask.org/python/students-fall-2023/abuser) | [GitHub](https://github.com/48USER/YSDA-PYTHON)
 
 ### Projects:
@@ -9,7 +9,7 @@
 
 ---
 
-## ШАД RUST  
+## YSDA(ШАД) RUST  
 [ManyTask](https://gitlab.manytask.org/rust-ysda-students-2024-fall/abuser) | [GitHub](https://github.com/48USER/YSDA-RUST)
 
 ### Projects:
