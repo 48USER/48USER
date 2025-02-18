@@ -21,10 +21,10 @@
 ---
 
 ## ML Lab
-- **kNN:** [GitHub](https://github.com/itmo-ml-lab-ML-course/2-knn-idzanach)
-- **Linear Methods:** [GitHub](https://github.com/itmo-ml-lab-ML-course/3-linear-idzanach)
-- **Trees and Ensembles:** [GitHub](https://github.com/itmo-ml-lab-ML-course/4-dt-idzanach)
-- **Feature Selection/Extraction and Vectorization Methods:** [GitHub](https://github.com/itmo-ml-lab-ML-course/5-fs-idzanach/tree/main)
+- **kNN:** [GitHub](https://github.com/48USER/kNN)
+- **Linear Methods:** [GitHub](https://github.com/48USER/Linear_Methods)
+- **Trees and Ensembles:** [GitHub](https://github.com/48USER/Trees_and_Ensembles)
+- **Feature Selection/Extraction and Vectorization Methods:** [GitHub](https://github.com/48USER/Feature_Selection-Extraction_and_Vectorization_Methods)
 
 ---
 
